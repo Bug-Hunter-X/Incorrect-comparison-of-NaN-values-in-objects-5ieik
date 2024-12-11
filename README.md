@@ -1,0 +1,1 @@
+This repository contains a PHP code example demonstrating a subtle bug related to comparing objects containing NaN (Not a Number) values. The original code incorrectly handles NaN comparisons, leading to inaccurate results. The solution provides a corrected version that addresses this issue, ensuring proper comparison of objects, including those with NaN properties.
